@@ -1,8 +1,23 @@
- #### Bootstrap-Portfolio Homework
+# Updated Portfolio
+​
+#### Updated-Portfolio-Repo, 02/07/19
+#### Updated 03/31/20
+​
+#### By Monika Karanovic
+​
+## Description
+​
+This is my professional developer portfolio with a simple but elegant style.
+​
+## Technologies Used
+​
+HTML
+​
+CSS, Bootstrap
+​
+Javascript, jquery
+​
+#  Direct link to site:
+https://monika933.github.io/UpdatedPortfolio/
 
- Not able to submit homework at time due to moving to new house.
-
- I will submit homework as soon as possible before  Saturday November 23rd.
-
- Thanks for understanding.
 
